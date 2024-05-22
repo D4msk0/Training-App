@@ -1,0 +1,70 @@
+[
+  {
+    "day": "Dag 1",
+    "exercises": [
+      {"name": "Squats", "sets": 3, "reps": 12},
+      {"name": "Lunges", "sets": 3, "reps": 12},
+      {"name": "Deadlifts", "sets": 3, "reps": 10},
+      {"name": "Leg Press", "sets": 3, "reps": 12},
+      {"name": "Kettlebell Swings", "sets": 3, "reps": 15},
+      {"name": "Cardio", "sets": 1, "reps": 20}
+    ]
+  },
+  {
+    "day": "Dag 2",
+    "exercises": [
+      {"name": "Bench Press", "sets": 3, "reps": 10},
+      {"name": "Pull-Ups", "sets": 3, "reps": 10},
+      {"name": "Bent Over Rows", "sets": 3, "reps": 12},
+      {"name": "Shoulder Press", "sets": 3, "reps": 12},
+      {"name": "Bicep Curls", "sets": 3, "reps": 15},
+      {"name": "Tricep Dips", "sets": 3, "reps": 15}
+    ]
+  },
+  {
+    "day": "Dag 3",
+    "exercises": [
+      {"name": "Licht joggen of wandelen", "sets": 1, "reps": 30},
+      {"name": "Stretching", "sets": 1, "reps": 20}
+    ]
+  },
+  {
+    "day": "Dag 4",
+    "exercises": [
+      {"name": "Deadlifts", "sets": 3, "reps": 10},
+      {"name": "Push-Ups", "sets": 3, "reps": 15},
+      {"name": "Dumbbell Rows", "sets": 3, "reps": 12},
+      {"name": "Overhead Press", "sets": 3, "reps": 12},
+      {"name": "Goblet Squats", "sets": 3, "reps": 15},
+      {"name": "Cardio", "sets": 1, "reps": 20}
+    ]
+  },
+  {
+    "day": "Dag 5",
+    "exercises": [
+      {"name": "Planks", "sets": 3, "reps": 1},
+      {"name": "Russian Twists", "sets": 3, "reps": 20},
+      {"name": "Leg Raises", "sets": 3, "reps": 15},
+      {"name": "Bicycle Crunches", "sets": 3, "reps": 20},
+      {"name": "Cardio", "sets": 1, "reps": 20}
+    ]
+  },
+  {
+    "day": "Dag 6",
+    "exercises": [
+      {"name": "Squats", "sets": 3, "reps": 12},
+      {"name": "Bench Press", "sets": 3, "reps": 10},
+      {"name": "Lunges", "sets": 3, "reps": 12},
+      {"name": "Pull-Ups", "sets": 3, "reps": 10},
+      {"name": "Leg Press", "sets": 3, "reps": 12},
+      {"name": "Shoulder Press", "sets": 3, "reps": 12}
+    ]
+  },
+  {
+    "day": "Dag 7",
+    "exercises": [
+      {"name": "Licht joggen of wandelen", "sets": 1, "reps": 30},
+      {"name": "Stretching", "sets": 1, "reps": 20}
+    ]
+  }
+]
